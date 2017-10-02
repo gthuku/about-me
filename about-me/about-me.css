@@ -1,0 +1,49 @@
+header.masthead img{
+  border-radius:75%;
+  border: 0;
+  display: block;
+  height: 100%;
+}
+img {
+  padding-left: 40px;
+  padding-top: 40px;
+  height: 300px;
+}
+}
+b {
+  font-size: 30px;
+  text-align: center;
+}
+}
+footer {
+  color: white; }
+  footer h3 {
+    margin-bottom: 30px; }
+  footer .footer-above {
+    padding-top: 50px;
+    background-color: ; }
+  footer .footer-col {
+    margin-bottom: 50px; }
+  footer .footer-below {
+    padding: 25px 0;
+    background-color: blue;}
+  h3 {
+    text-align: center;
+    font-style: oblique;
+  }
+  .btn-social {
+    font-size: 20px;
+    line-height: 45px;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    border: 2px solid white;
+    border-radius: 100%; }
+
+  .btn.active,
+  .btn:active,
+  .btn:focus {
+    outline: none; }
+  .img-centered {
+      margin: 0 auto; }
